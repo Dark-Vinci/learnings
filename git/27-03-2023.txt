@@ -1,0 +1,18 @@
+2023-03-27
+------------------------------------------------------------------------------------------------
+
+command: git reset
+
+Description: To move back to a previous commit history
+
+Example:
+    git reset --soft [hash]
+    // This revert back and any commit made after the commit hash will be put in staging[git add .]
+
+    git reset --mixed [hash]
+    // This will revert back to the commit hash and will unstage the changes
+
+    git reset --hard [hash]
+    // This will revert back to the commit hash and remove/delete any changes after the commit
+
+------------------------------------------------------------------------------------------------
