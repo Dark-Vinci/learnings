@@ -1,0 +1,20 @@
+27-03-2023
+________________________________________________________________
+Alias command
+
+1 -> for creating utility command in bash(linux)
+
+////////////////////////////////////////////////////////////////
+Example -> alias nesty='cd /path/to/go/in'
+
+alias [command name]='[command to execute]'
+
+//! To add alias permanent command [ADD TO .zshrc file]
+
+////////////////////////////////////////////////////////////////
+To remove an alias -> unalias [command name]
+
+////////////////////////////////////////////////////////////////
+To list all aliases -> alias
+
+________________________________________________________________
