@@ -3,7 +3,7 @@
 
 command: git reset
 
-Description: To move back to a previous commit history
+Description: To move back to a previous commit history(with all commit after the commit in mind)
 
 Example:
     git reset --soft [hash]
@@ -14,5 +14,30 @@ Example:
 
     git reset --hard [hash]
     // This will revert back to the commit hash and remove/delete any changes after the commit
+
+------------------------------------------------------------------------------------------------
+2023-03-28
+
+command: git revert
+
+Description: This create a commit to undo the commit hash provided(just one single target commit in mind).
+
+Example:
+    git revert [hash]
+    //this creates a new commit to undo a previous commit
+
+    git revert Head~[number-of-commit-ago]
+    //this revert the number of commit ago
+
+------------------------------------------------------------------------------------------------
+
+2023-03-28
+
+command: git commit -am [message]
+
+Description: This merges git add . > git commit -m [message] into one command
+
+Example:
+    git commit -am 'chore: update user table'
 
 ------------------------------------------------------------------------------------------------
