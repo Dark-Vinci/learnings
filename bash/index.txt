@@ -18,3 +18,17 @@ To remove an alias -> unalias [command name]
 To list all aliases -> alias
 
 ________________________________________________________________
+
+28-03-2023
+
+cat command
+
+1 -> for printing file content
+
+Examples
+    -> cat index.js // prints the content of index.js
+    -> cat > index.js //creates index.js in the present directory
+    -> cat index.js | more // non scrollable
+    -> cat index.js | less // scrollable
+
+________________________________________________________________
