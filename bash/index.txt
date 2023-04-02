@@ -32,3 +32,26 @@ Examples
     -> cat index.js | less // scrollable
 
 ________________________________________________________________
+
+02-04-2023
+
+cp command
+
+1 -> copy file/directory to another
+
+Examples
+    -> cp file.ts backup/
+    -> cp -r folder folder-backup/
+
+________________________________________________________________
+
+02-04-2023
+
+history command
+
+1 -> prints out all used cli commands
+
+Examples
+    -> history
+
+________________________________________________________________

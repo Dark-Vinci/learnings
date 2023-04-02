@@ -41,3 +41,8 @@ Example:
     git commit -am 'chore: update user table'
 
 ------------------------------------------------------------------------------------------------
+
+02-04-2023
+
+git clean 
+removes untracked file from working directory

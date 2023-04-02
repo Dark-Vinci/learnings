@@ -1,0 +1,50 @@
+ls: Lists the contents of a directory.
+cd: Changes the current working directory.
+mkdir: Creates a new directory.
+touch: Creates a new file.
+rm: Removes a file or directory.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+cat: Displays the contents of a file.
+grep: Searches for a pattern in a file.
+sed: Searches and replaces text in a file.
+awk: Processes and manipulates text files.
+chmod: Changes the permissions of a file or directory.
+chown: Changes the owner of a file or directory.
+df: Displays information about disk space usage.
+du: Displays information about disk usage for a file or directory.
+top: Displays system resource usage in real time.
+ps: Displays information about running processes.
+kill: Terminates a running process.
+ping: Tests network connectivity.
+ifconfig: Displays network interface configuration.
+ip: Manages network interfaces and addresses.
+ssh: Connects to a remote system securely.
+scp: Copies files securely between systems.
+tar: Archives and compresses files and directories.
+zip: Compresses files and directories into a zip archive.
+unzip: Extracts files from a zip archive.
+wget: Downloads files from the web.
+curl: Sends HTTP requests from the command line.
+date: Displays or sets the system date and time.
+cal: Displays a calendar.
+whoami: Displays the current user.
+sudo: Executes a command with elevated privileges.
+su: Switches to another user account.
+passwd: Changes the password for a user account.
+uname: Displays system information.
+hostname: Displays or sets the system hostname.
+find: Searches for files and directories.
+locate: Finds files and directories based on a keyword.
+history: Displays a list of recently executed commands.
+man: Displays the manual page for a command.
+info: Displays information about a command.
+alias: Creates an alias for a command.
+echo: Displays a message on the screen.
+tee: Redirects output to a file and to the screen.
+sort: Sorts lines of text.
+uniq: Filters out duplicate lines of text.
+head: Displays the first few lines of a file.
+tail: Displays the last few lines of a file.
+less: Displays text one page at a time.
+nano: A simple text editor.
