@@ -1,0 +1,6 @@
+// 424
+
+failed dependency
+
+This method is used when a client calls a server but the request could not be \
+completed due to a previous request that the call is dependent on that fails
