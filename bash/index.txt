@@ -55,3 +55,21 @@ Examples
     -> history
 
 ________________________________________________________________
+
+03-04-2023
+
+mv command
+
+1 -> Used to rename file, documents;
+2 -> Used to move file/documents from one location to another;
+
+exmaple 
+    -> mv /path/to/source/file /path/to/destination/directory/ [move file to -> directory folder];
+    -> mv /path/to/source/file /path/to/destination/file1 [rename file from `file` to `file1`];
+    -> mv /path/to/source/directory /path/to/destination/directory/ [move a directory and its content]
+    -> mv /path/to/source/directory /path/to/destination/directory [rename a directory]
+    -> mv file1.txt file2.txt /path/to/destination/directory/ [move multiple files]
+    -> mv * /path/to/destination/directory/ [move all file content in a directory]
+
+
+________________________________________________________________
