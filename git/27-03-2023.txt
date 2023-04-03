@@ -46,3 +46,14 @@ Example:
 
 git clean 
 removes untracked file from working directory
+
+------------------------------------------------------------------------------------------------
+
+03-04-2023
+
+git blame
+
+used to list out the committer of a file line by line with the commit hash and commit timestamp
+
+
+------------------------------------------------------------------------------------------------
